@@ -1,5 +1,5 @@
 {
-  "name": "陈长路",
+  "name": "陈长炽",
   "avatarText": "YN",
   "bio": "在互联网上构建，分享实验、想法以及值得点击的内容。",
   "links": [
@@ -9,21 +9,21 @@
       "kind": "github",
       "external": true
     },
-   {
+    {
       "label": "Bilibili",
       "href": "https://space.bilibili.com/75040250",
       "kind": "bilibili",
       "external": true
     },
     {
-      "label": "QQEmail",
-      "href": "1463693519@qq.com",
-      "kind": "QQemail",
+      "label": "QQ Email",
+      "href": "mailto:1463693519@qq.com",
+      "kind": "email",
       "external": false
-    }
+    },
     {
       "label": "Gmail",
-      "href": "c1463693519@gmail.com",
+      "href": "mailto:c1463693519@gmail.com",
       "kind": "email",
       "external": false
     }
