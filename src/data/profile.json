@@ -1,35 +1,29 @@
 {
-  "name": "Your Name",
+  "name": "陈长路",
   "avatarText": "YN",
-  "bio": "Building on the internet, sharing experiments, ideas, and things worth clicking on.",
+  "bio": "在互联网上构建，分享实验、想法以及值得点击的内容。",
   "links": [
     {
       "label": "GitHub",
-      "href": "https://github.com/your-username",
+      "href": "https://github.com/czczccc",
       "kind": "github",
       "external": true
     },
-    {
-      "label": "Twitter",
-      "href": "https://twitter.com/your-handle",
-      "kind": "twitter",
-      "external": true
-    },
-    {
-      "label": "YouTube",
-      "href": "https://www.youtube.com/@your-channel",
-      "kind": "youtube",
-      "external": true
-    },
-    {
+   {
       "label": "Bilibili",
-      "href": "https://space.bilibili.com/your-id",
+      "href": "https://space.bilibili.com/75040250",
       "kind": "bilibili",
       "external": true
     },
     {
-      "label": "Email",
-      "href": "mailto:hello@example.com",
+      "label": "QQEmail",
+      "href": "1463693519@qq.com",
+      "kind": "QQemail",
+      "external": false
+    }
+    {
+      "label": "Gmail",
+      "href": "c1463693519@gmail.com",
       "kind": "email",
       "external": false
     }
